@@ -136,8 +136,23 @@ while True:
     if again4 == "Y":
             print("Good luck")
     if again4 == "N":
-        break
+            print("You got this far, it's a shame you wish to stop now. But I can't stop you.")
+            break
     if path4 == "B":
             print("You follow Rivet back to Johnny and nod your head, to which he nods back.")
-            
+    if path4 == "C":
+            print("'Sounds wonderful! Thank you Tics, we'll get you there...right now!'")
+    sleep(1.4)
+    print("Johnny raised his hands, uttering some words you couldn't make out the meaning of. This must be some ancient demonic tongue...")
+    sleep(0.8)
+    print("And with a deep red flash, you're blinded immediately, a deep howling ringing through your entire head as you feel your body getting stretched and pulled like a piece of Playdough (sponsor me Playdough, please?), your stomach experiencing what it means to have seven different dimensions all collapse at once.")
+    sleep(0.8)
+    print("Then boom. A sort of yellow brightness glowing through your eyelids as you feel a soft wind blow on your skin. The intense heat you've come to know and hate has made place for a much cooler and gentle warmth. You struggle to open your eyes, feeling like they were glued shut tightly. With much pain and effort, your view changes from a sort of yellow-ish glow to a beautiful sky.")
+    sleep(0.8)
+    print("It was filled with white pieces of fluff and a bright white-ish orb. You feel around you, a weird tickle running over your palms as you take a look, being met by some sort of green landscape. It seemed like everything here was so...peaceful. A feeling you've never experienced before, your heart finally going from a constant anxiety filled pounding to a relaxed little beat.")
+    sleep(0.8)
+    print("As you rise to your feet, you can see a nearby collection of buildings, not one of them seeming to have blown up recently, neither are the people running around causing any explosions. So this is the human world? Everything is so calm, so...nice? Compared to what you've come to know, this is like some sort of heavenly dream. Oh...a dream...that must be right. This couldn't be real.")
+    sleep(0.8)
+    print("But no matter how much you 'realize' that this is a dream, everything stayed the same. You close your eyes again, begging to wake up and as you open your eyes, you're still in the exact same place. So it's true. You found your way to Earth.")
+    
     
