@@ -102,7 +102,7 @@ while True:
         print("B. As much as Johnny and Tichettio could be the best kings, I want to know what Tichettio's purpose is.")
     thefuture = input()
     if thefuture == "A":
-        print("You have a heart of gold. Thank you for not pulling me- I mean, Tichettio away from Johnny.")
+        print("You have a heart of gold. Thank you for not pulling Tichettio away from Johnny.")
         break
     if thefuture == "B":
         print("Completely understandable. Good luck then. Oh and Johnny says 'go fuck yourself.' What a dick huh? ;)")
@@ -142,7 +142,7 @@ while True:
             print("You follow Rivet back to Johnny and nod your head, to which he nods back.")
     if path4 == "C":
             print("'Sounds wonderful! Thank you Tics, we'll get you there...right now!'")
-    sleep(1.4)
+    sleep(0.8)
     print("Johnny raised his hands, uttering some words you couldn't make out the meaning of. This must be some ancient demonic tongue...")
     sleep(0.8)
     print("And with a deep red flash, you're blinded immediately, a deep howling ringing through your entire head as you feel your body getting stretched and pulled like a piece of Playdough (sponsor me Playdough, please?), your stomach experiencing what it means to have seven different dimensions all collapse at once.")
